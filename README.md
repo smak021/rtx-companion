@@ -56,9 +56,6 @@ official TVS Connect app. Activate RTX Companion again when you want to use it.
   not operate the phone while riding.
 - Compatibility outside the tested Galaxy S23 and Apache RTX is not guaranteed.
 
-The app also stops before sending display data if it detects that the cluster's
-Bluetooth profile or reported software version changed after an update.
-
 ## To do
 
 - Call notifications and call controls on the cluster.
