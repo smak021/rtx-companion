@@ -56,6 +56,14 @@ official TVS Connect app. Activate RTX Companion again when you want to use it.
   not operate the phone while riding.
 - Compatibility outside the tested Galaxy S23 and Apache RTX is not guaranteed.
 
+## Safety boundary
+
+RTX Companion is limited to displaying supported bike data and sending
+phone-side navigation and status information to the paired cluster.
+
+It does not access or modify the ECU, firmware, diagnostics, immobilizer,
+engine, lights, horn, locks, braking, or other vehicle-control systems.
+
 ## To do
 
 - Call notifications and call controls on the cluster.
