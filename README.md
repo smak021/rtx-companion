@@ -1,6 +1,6 @@
 # RTX Companion
 
-RTX Companion is an experimental Android app for the TVS Apache RTX cluster.
+RTX Companion is an experimental Android app for the Apache RTX 300 cluster.
 Connect it to your bike once, and it will reconnect automatically whenever the
 bike is turned on. The app displays available bike data and sends live
 turn-by-turn guidance to the cluster when you start navigation in Google Maps
